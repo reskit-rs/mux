@@ -8,3 +8,11 @@ edition = "2018"
 
 [dependencies]
 route-recognizer = "0.3"
+regex = "1"
+lazy_static = "1.4.0"
+anyhow = "1.0"
+percent-encoding = "2.1.0"
+url = "2.2.2"
+
+[dependencies-dev]
+qstring = "0.7.2"
